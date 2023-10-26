@@ -25,14 +25,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
 
+<br>
+
 <h1 align="left"> 📈 &nbsp;Mon historique github</h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=xen0r-star&show_icons=true&bg_color=white&title_color=#3784EE&locale=fr&text_color=black" alt="stat" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xen0r-star&layout=compact" alt="stat" height="150"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" height="150">
 </picture>
+</p>
