@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Salut%20&animation=fadeIn&type=waving&color=gradient&height=125">
-</p>
-
 <h1 align="left"> 🚀 &nbsp;Quelques outils que j'ai utilisés ou appris</h1>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -31,12 +27,8 @@
 
 <h1 align="left"> 📈 &nbsp;Mon historique github</h1>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xen0r-star&show_icons=true&bg_color=white&title_color=#3784EE&locale=fr&text_color=black" alt="stat" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xen0r-star&layout=compact" alt="stat" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xen0r-star&show_icons=true&bg_color=white&title_color=#3784EE&locale=fr&text_color=black" alt="stat" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xen0r-star&layout=compact" alt="stat" height="150"/>
 </p>
 
 ![Snake animation](https://github.com/xen0r-star/xen0r-star/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
