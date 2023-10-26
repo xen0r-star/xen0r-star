@@ -34,4 +34,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xen0r-star&show_icons=true&bg_color=white&title_color=#3784EE&locale=fr&text_color=black" alt="stat" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xen0r-star&layout=compact" alt="stat" height="200"/>
 </p>
+
 ![Snake animation](https://github.com/xen0r-star/xen0r-star/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
