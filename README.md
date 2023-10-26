@@ -32,8 +32,11 @@
 
 <h2 align="left"> 📈 &nbsp;Mon historique github</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xen0r-star&show_icons=true&bg_color=white&title_color=#3784EE&locale=fr&text_color=black" alt="stat" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xen0r-star&layout=compact" alt="stat" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xen0r-star&show_icons=true&theme=dracula&rank_icon=github" alt="stat" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xen0r-star&layout=compact&theme=dracula" alt="stat" height="150"/>
+
+<br>
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xen0r-star/xen0r-star/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xen0r-star/xen0r-star/output/github-contribution-grid-snake.svg">
