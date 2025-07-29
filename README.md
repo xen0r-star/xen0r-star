@@ -33,8 +33,8 @@
 <h2 align="left"> 📈 &nbsp;Mon historique github</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=xen0r-star&show_icons=true&theme=dracula&rank_icon=github" alt="stat" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xen0r-star&layout=compact&theme=dracula" alt="stat" height="150"/>
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xen0r-star&layout=compact&theme=dracula" alt="stat" height="150"/> -->
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=15162&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dracula" alt="stat" height="150"/>
 <br>
   
 <picture>
