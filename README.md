@@ -2,7 +2,8 @@
 
 <p>
 Fullstack & Software Developer based in Belgium. <br />
-Currently searching for a end-of-degree internship.
+Passionate about embedded systems, IoT, and robotics. <br />
+Currently searching for an end-of-degree internship.
 </p>
 
 <!-- <p align="left">
